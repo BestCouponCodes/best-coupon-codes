@@ -1,5 +1,7 @@
 # Best Coupon Codes 2026 🔥
 
+🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文](./README-zh.md) | 🇯🇵 [日本語](./README-ja.md) | 🇰🇷 [한국어](./README-ko.md)
+
 Welcome to **Best Coupon Codes 2026** — your ultimate hub for the latest **promo codes, discount codes, and exclusive deals**.
 
 We collect and update the best coupon codes for **VPN services, AI tools, software, and online platforms**, helping you save money with verified discounts.
