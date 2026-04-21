@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NordVPN 쿠폰 코드 2026｜최대 80% 할인 + 추가 무료 개월
+description: "2026년 최신 NordVPN 쿠폰 코드와 할인 정보를 제공합니다. 사용 가능한 VPN 할인 코드와 프로모션을 확인하세요."
 ---
 
 # NordVPN 쿠폰 코드 2026｜최대 80% 할인 + 추가 무료 개월 🔥
