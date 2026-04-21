@@ -1,4 +1,12 @@
+---
+layout: default
+title: NordVPN クーポンコード 2026｜最大80%OFF + 無料期間追加
+---
+
 # NordVPN クーポンコード 2026｜最大80%OFF + 無料期間追加 🔥
+
+🌐 言語：🇺🇸 [English]({{ site.baseurl }}/nordvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/nordvpn-coupon-code-zh/) | 🇯🇵 日本語 | 🇰🇷 [한국어]({{ site.baseurl }}/nordvpn-coupon-code-ko/)
+
 
 最新の **NordVPN クーポンコード 2026** をお探しですか？
 ここでは現在利用可能な最安の割引情報とプロモコードをまとめています。
