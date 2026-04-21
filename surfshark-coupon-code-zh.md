@@ -1,4 +1,11 @@
-# Surfshark 優惠碼 2026｜最高 89% OFF + 加送額外月份 🔥
+---
+layout: default
+title: Surfshark 優惠碼 2026｜最高 89% 折扣 + 加送額外月份
+---
+
+# Surfshark 優惠碼 2026｜最高 89% 折扣 + 加送額外月份 🔥
+
+🌐 語言：🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 繁體中文 | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
 
 正在找最新的 **Surfshark 優惠碼 2026** 嗎？
 這裡整理目前最優惠的 Surfshark 折扣方案，讓你用最低價格入手高品質 VPN。
