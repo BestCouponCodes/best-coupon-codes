@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NordVPN Coupon Code 2026 – Up to 80% OFF + Extra Months
+description: "Get the latest NordVPN coupon code for 2026. Save up to 80% with extra months included. Verified and updated deals."
 ---
 
 # NordVPN Coupon Code 2026 – Up to 80% OFF + Extra Months 🔥
