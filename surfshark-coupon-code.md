@@ -1,4 +1,12 @@
-# Surfshark Coupon Code 2026 – Get Up to 89% OFF + Extra Free Months 🔥
+---
+layout: default
+title: Surfshark Coupon Code 2026 – Up to 89% OFF + Extra Months
+---
+
+# Surfshark Coupon Code 2026 – Up to 89% OFF + Extra Months 🔥
+
+🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
+
 
 Looking for the latest **Surfshark coupon code in 2026**?
 Here’s the **best deal available right now** — save big with exclusive discounts and verified promo codes.
