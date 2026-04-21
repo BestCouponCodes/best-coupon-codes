@@ -12,8 +12,8 @@ description: "整理 2026 最新 VPN、AI 工具與軟體優惠碼與折扣資�
 
 ## 🔥 熱門優惠碼（2026 最新）
 
-- [VPN 優惠碼整理](/best-coupon-codes/nordvpn-coupon-code-zh/)
-- [更多 VPN 折扣與優惠](/best-coupon-codes/surfshark-coupon-code-zh/)
+- [NordVPN 優惠碼 – 最高 80% 折扣 + 加送額外月份](/best-coupon-codes/nordvpn-coupon-code-zh/)
+- [Surfshark 優惠碼 – 最高 89% 折扣 + 加送額外月份](/best-coupon-codes/surfshark-coupon-code-zh/)
 
 👉 我們持續更新，確保所有優惠碼皆為最新且可用。
 
@@ -21,8 +21,8 @@ description: "整理 2026 最新 VPN、AI 工具與軟體優惠碼與折扣資�
 
 ## 🌍 VPN 優惠
 
-- [VPN 優惠碼](/best-coupon-codes/nordvpn-coupon-code-zh/)
-- [VPN 折扣整理](/best-coupon-codes/surfshark-coupon-code-zh/)
+- [NordVPN 優惠碼](/best-coupon-codes/nordvpn-coupon-code-zh/)
+- [Surfshark 優惠碼](/best-coupon-codes/surfshark-coupon-code-zh/)
 
 ✔ 保護上網隱私  
 ✔ 安全使用公共 Wi-Fi  
@@ -32,7 +32,7 @@ description: "整理 2026 最新 VPN、AI 工具與軟體優惠碼與折扣資�
 
 ## 🤖 AI 工具（即將推出）
 
-- AI 影片剪輯工具  
+- CapCut Pro 優惠碼  
 - AI 語音生成工具  
 - AI 寫作工具  
 
@@ -44,9 +44,9 @@ description: "整理 2026 最新 VPN、AI 工具與軟體優惠碼與折扣資�
 
 ## 💻 軟體優惠碼
 
-- 系統工具優惠  
-- 資料救援軟體  
-- 手機管理工具  
+- Tenorshare 優惠碼  
+- iMyFone 優惠碼  
+- 資料救援軟體折扣  
 
 ✔ 解鎖完整功能  
 ✔ 一次購買永久使用  
