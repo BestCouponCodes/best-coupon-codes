@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Surfshark 優惠碼 2026｜最高 89% 折扣 + 加送額外月份
+description: "整理 2026 最新 Surfshark 優惠碼與折扣資訊，提供有效的 VPN 折扣碼與優惠方案。"
 ---
 
 # Surfshark 優惠碼 2026｜最高 89% 折扣 + 加送額外月份 🔥
