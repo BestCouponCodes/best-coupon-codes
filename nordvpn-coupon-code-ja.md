@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NordVPN クーポンコード 2026｜最大80%OFF + 無料期間追加
+description: "2026年の最新NordVPNクーポンコードと割引情報を紹介。使えるVPN割引コードとお得なプランをまとめています。"
 ---
 
 # NordVPN クーポンコード 2026｜最大80%OFF + 無料期間追加 🔥
