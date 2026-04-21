@@ -1,4 +1,11 @@
+---
+layout: default
+title: Surfshark クーポンコード 2026｜最大89%OFF + 無料期間追加
+---
+
 # Surfshark クーポンコード 2026｜最大89%OFF + 無料期間追加 🔥
+
+🌐 言語：🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 日本語 | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
 
 最新の **Surfshark クーポンコード 2026** をお探しですか？
 ここでは現在利用可能な最安の割引情報とプロモコードをまとめています。
