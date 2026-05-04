@@ -3,5 +3,8 @@ description: Best VPN, AI tools, and software coupon codes
 theme: minima
 permalink: pretty
 show_excerpts: false
-id: seo1
 timezone: Asia/Taipei
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
