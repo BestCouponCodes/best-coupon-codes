@@ -5,6 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
 
+  <meta name="last-modified" content="{{ page.last_modified_at | date: "%Y-%m-%d" }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title }}",
+  "dateModified": "{{ page.last_modified_at | date: "%Y-%m-%d" }}"
+}
+</script>
+
+
+
+  
+
   <style>
     body {
       margin: 0;
@@ -93,9 +108,21 @@
   <div class="container">
 
     <!-- Header -->
-    <div class="header">
-      <h1>{{ page.title }}</h1>
-    </div>
+ <div class="header">
+  <h1>{{ page.title }}</h1>
+
+  <p style="margin-top:10px; font-size:14px; color:#666;">
+    {% if page.lang == "zh" %}
+      最後更新：{{ page.last_modified_at | date: "%Y-%m" }}
+    {% elsif page.lang == "ja" %}
+      最終更新日: {{ page.last_modified_at | date: "%Y-%m" }}
+    {% elsif page.lang == "ko" %}
+      마지막 업데이트: {{ page.last_modified_at | date: "%Y-%m" }}
+    {% else %}
+      Last Updated: {{ page.last_modified_at | date: "%Y-%m" }}
+    {% endif %}
+  </p>
+</div>
 
     <!-- Content -->
     <div class="content">
