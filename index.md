@@ -3,6 +3,8 @@ layout: default
 title: "Best Coupon Codes 2026 – VPN, AI Tools & Software Discounts"
 description: "Find the latest VPN coupon codes, promo codes, and software deals for 2026."
 excerpt: ""
+lang: en
+last_modified_at: 2026-05-04
 ---
 
 # Best Coupon Codes 2026 🔥
