@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Surfshark 쿠폰 코드 2026｜최대 89% 할인 + 추가 무료 개월
+title: Surfshark 쿠폰 코드 2026｜최대 89% 할인 + 추가 무료 개월🔥
 description: "2026년 최신 Surfshark 쿠폰 코드와 할인 정보를 제공합니다. 사용 가능한 VPN 할인 코드와 프로모션을 확인하세요."
+lang: ko
+last_modified_at: 2026-05-04
 ---
-
-# Surfshark 쿠폰 코드 2026｜최대 89% 할인 + 추가 무료 개월 🔥
 
 🌐 언어: 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 한국어
 
@@ -110,4 +110,3 @@ Surfshark는 2026년 기준 최고의 가성비 VPN 중 하나입니다.
 
 ---
 
-**마지막 업데이트: 2026년 4월**
