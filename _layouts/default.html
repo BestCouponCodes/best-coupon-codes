@@ -5,17 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
 
+{% assign base_path = page.url | replace: '-zh/', '/' | replace: '-ja/', '/' | replace: '-ko/', '/' %}
+{% if base_path == "/" %}
+  {% assign slug = "" %}
+{% else %}
+  {% assign slug = base_path | append: "!" | replace: "/!", "" | replace: "!", "" %}
+{% endif %}
+{% assign url_prefix = site.url | append: site.baseurl %}
 
-{% assign base = page.url | replace: '-zh/', '/' | replace: '-ja/', '/' | replace: '-ko/', '/' %}
-{% assign slug = base | remove_last: '/' %}
-
-<link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
-<link rel="alternate" hreflang="zh-TW" href="{{ site.url }}{{ site.baseurl }}{{ slug }}-zh/" />
-<link rel="alternate" hreflang="ja" href="{{ site.url }}{{ site.baseurl }}{{ slug }}-ja/" />
-<link rel="alternate" hreflang="ko" href="{{ site.url }}{{ site.baseurl }}{{ slug }}-ko/" />
-<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
-
-  
+<link rel="alternate" hreflang="x-default" href="{{ url_prefix }}{{ base_path }}" />
+<link rel="alternate" hreflang="en" href="{{ url_prefix }}{{ base_path }}" />
+<link rel="alternate" hreflang="zh-Hant" href="{{ url_prefix }}{{ slug }}-zh/" />
+<link rel="alternate" hreflang="ja" href="{{ url_prefix }}{{ slug }}-ja/" />
+<link rel="alternate" hreflang="ko" href="{{ url_prefix }}{{ slug }}-ko/" />
   <meta name="last-modified" content="{{ page.last_modified_at | date: "%Y-%m-%d" }}">
 
 <script type="application/ld+json">
