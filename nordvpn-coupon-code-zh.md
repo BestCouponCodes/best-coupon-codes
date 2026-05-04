@@ -1,10 +1,11 @@
 ---
 layout: default
-title: NordVPN 優惠碼 2026｜最高 80% 折扣 + 加送額外月份
+title: NordVPN 優惠碼 2026｜最高 80% 折扣 + 加送額外月份🔥
 description: "整理 2026 最新 NordVPN 優惠碼與折扣資訊，提供有效的 VPN 折扣碼與優惠方案。"
+lang: zh
+last_modified_at: 2026-05-04
 ---
 
-# NordVPN 優惠碼 2026｜最高 80% 折扣 + 加送額外月份 🔥
 
 🌐 語言：🇺🇸 [English]({{ site.baseurl }}/nordvpn-coupon-code/) | 🇹🇼 繁體中文 | 🇯🇵 [日本語]({{ site.baseurl }}/nordvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/nordvpn-coupon-code-ko/)
 
@@ -111,5 +112,3 @@ NordVPN 是 2026 年最值得信賴的 VPN 之一，
 👉 如果你想要高品質 VPN 並兼顧折扣，這個方案非常值得入手。
 
 ---
-
-**最後更新：2026 年 4 月**
