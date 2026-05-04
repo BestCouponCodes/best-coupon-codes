@@ -5,6 +5,9 @@ permalink: pretty
 show_excerpts: false
 timezone: Asia/Taipei
 
+url: https://bestcouponcodes.github.io
+baseurl: /best-coupon-codes
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
