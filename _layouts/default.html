@@ -6,14 +6,13 @@
   <title>{{ page.title }}</title>
 
 
+{% assign base = page.url | replace: '-zh/', '/' | replace: '-ja/', '/' | replace: '-ko/', '/' %}
 
-  {% assign base = page.url | replace: '-zh/', '/' | replace: '-ja/', '/' | replace: '-ko/', '/' %}
-
-  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
-  <link rel="alternate" hreflang="zh-TW" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-zh/' }}" />
-  <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-ja/' }}" />
-  <link rel="alternate" hreflang="ko" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-ko/' }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
+<link rel="alternate" hreflang="zh-TW" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-zh/' }}" />
+<link rel="alternate" hreflang="ja" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-ja/' }}" />
+<link rel="alternate" hreflang="ko" href="{{ site.url }}{{ site.baseurl }}{{ base | replace: '/', '-ko/' }}" />
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ base }}" />
 
 
   
