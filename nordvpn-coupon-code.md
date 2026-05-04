@@ -110,4 +110,4 @@ NordVPN is one of the **most reliable VPN services in 2026**, offering top-tier 
 
 ---
 
-**Last Updated: April 2026**
+**Last Updated: {{ site.time | date: "%Y-%m" }}**
