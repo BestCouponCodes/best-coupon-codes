@@ -2,6 +2,7 @@
 layout: default
 title: NordVPN Coupon Code 2026 – Up to 80% OFF + Extra Months
 description: "Get the latest NordVPN coupon code for 2026. Save up to 80% with extra months included. Verified and updated deals."
+lang: en
 last_modified_at: 2026-05-04
 ---
 
@@ -110,5 +111,3 @@ NordVPN is one of the **most reliable VPN services in 2026**, offering top-tier 
 👉 If you want a premium VPN with strong performance and trusted reputation, this is one of the best choices available.
 
 ---
-
-**Last Updated: {{ site.time | date: "%Y-%m" }}**
