@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Surfshark Coupon Code 2026 – Up to 89% OFF + Extra Months
+title: Surfshark Coupon Code 2026 – Up to 89% OFF + Extra Months🔥
 description: "Get the latest Surfshark coupon code for 2026. Find verified promo codes, discounts, and deals for secure VPN services."
+lang: en
+last_modified_at: 2026-05-04
 ---
 
-# Surfshark Coupon Code 2026 – Up to 89% OFF + Extra Months 🔥
 
 🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
 
