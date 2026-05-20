@@ -113,3 +113,11 @@ Surfshark is one of the **best VPN deals in 2026**, combining strong privacy, fa
 👉 If you're looking for a reliable VPN at the lowest price, this is one of the best deals available right now.
 
 ---
+
+
+
+## ⚠️ Disclaimer
+
+Some links on this page may be affiliate links. This helps support the website and allows us to continue providing free content and updates at no additional cost to you.
+
+---
