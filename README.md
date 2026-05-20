@@ -104,6 +104,12 @@ If you find this useful:
 
 ---
 
+## ⚠️ Disclaimer
+
+Some links may be affiliate links. This helps support the website and allows us to continue providing free content and updates at no additional cost to you.
+
+---
+
 ## 📬 Contact & Collaboration
 
 For partnerships, collaborations, or promotions, feel free to reach out. 
