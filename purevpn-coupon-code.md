@@ -109,8 +109,6 @@ Don't miss these limited-time PureVPN promotions and coupon codes.
 
 This page is regularly updated to ensure all PureVPN coupon codes and discounts remain valid and working.
 
-Last verified: June 2026.
-
 ---
 
 ## ⭐ Final Verdict
