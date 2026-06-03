@@ -120,12 +120,14 @@ Surfshark 是 2026 年最值得入手的 VPN 之一，
 
 ---
 
-🔥 更多 VPN 優惠推薦
+## 🔥 更多 VPN 優惠推薦
 
 想比較其他 VPN 折扣嗎？以下是目前熱門且持續更新的 VPN 優惠碼：
 
-[NordVPN 優惠碼]({{ site.baseurl }}/nordvpn-coupon-code/) – 最高享 80% OFF + 額外免費月份
-[ExpressVPN 優惠碼]({{ site.baseurl }}/expressvpn-coupon-code/) – 最高享 78% OFF + 額外 4 個月
-[PureVPN 優惠碼]({{ site.baseurl }}/purevpn-coupon-code/) – 最高享 89% OFF + 額外 3 個月
+* [NordVPN 優惠碼]({{ site.baseurl }}/nordvpn-coupon-code/) – 最高享 80% OFF + 額外免費月份
+
+* [ExpressVPN 優惠碼]({{ site.baseurl }}/expressvpn-coupon-code/) – 最高享 78% OFF + 額外 4 個月
+
+* [PureVPN 優惠碼]({{ site.baseurl }}/purevpn-coupon-code/) – 最高享 89% OFF + 額外 3 個月
 
 ---
