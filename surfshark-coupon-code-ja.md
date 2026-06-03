@@ -119,14 +119,14 @@ Surfsharkは2026年において、
 
 ---
 
-🔥 おすすめVPNクーポン
+## 🔥 おすすめVPNクーポン
 
 他のVPN割引もお探しですか？現在利用できる人気VPNのクーポンコードはこちらです。
 
-*[NordVPN クーポンコード]({{ site.baseurl }}/nordvpn-coupon-code/) – 最大80%OFF＋追加無料期間
+* [NordVPN クーポンコード]({{ site.baseurl }}/nordvpn-coupon-code/) – 最大80%OFF＋追加無料期間
 
-*[ExpressVPN クーポンコード]({{ site.baseurl }}/expressvpn-coupon-code/) – 最大78%OFF＋4か月無料
+* [ExpressVPN クーポンコード]({{ site.baseurl }}/expressvpn-coupon-code/) – 最大78%OFF＋4か月無料
 
-*[PureVPN クーポンコード]({{ site.baseurl }}/purevpn-coupon-code/) – 最大89%OFF＋3か月無料
+* [PureVPN クーポンコード]({{ site.baseurl }}/purevpn-coupon-code/) – 最大89%OFF＋3か月無料
 
 ---
