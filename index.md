@@ -23,6 +23,7 @@ We continuously update the best discounts for VPN services, AI tools, software, 
 * [Surfshark Coupon Code – Up to 89% OFF + Extra Months](/best-coupon-codes/surfshark-coupon-code/)
 * [NordVPN Promo Code – Up to 80% Discount + Extra Months](/best-coupon-codes/nordvpn-coupon-code/)
 * [ExpressVPN Coupon Code – Up to 78% OFF + 4 Extra Months](/best-coupon-codes/expressvpn-coupon-code/)
+* [PureVPN Coupon Code – Up to 89% OFF + 3 Extra Months](/best-coupon-codes/purevpn-coupon-code/)
 
 👉 We regularly update this list to ensure all coupon codes and promotions remain valid.
 
