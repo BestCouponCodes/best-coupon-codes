@@ -9,6 +9,8 @@ last_modified_at: 2026-06-03
 
 🌐 Languages: 🇺🇸 [English]({{ site.baseurl }}/purevpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/purevpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇰🇷 한국어
 
+🏠 [쿠폰 코드 홈으로 돌아가기]({{ site.baseurl }}/)
+
 **2026년 최신 PureVPN 쿠폰 코드**를 찾고 계신가요?
 
 현재 사용 가능한 **PureVPN 할인 코드 및 프로모션 정보**를 정리했습니다. 최대 **89% 할인**과 추가 무료 개월 수 혜택까지 받을 수 있습니다.
@@ -110,8 +112,6 @@ PureVPN은 장기 플랜일수록 더 큰 할인을 제공합니다.
 ## 🔄 최신 업데이트
 
 이 페이지는 최신 PureVPN 쿠폰 코드 및 프로모션 정보를 제공하기 위해 정기적으로 업데이트됩니다.
-
-최종 확인일: 2026년 6월
 
 ---
 
