@@ -9,6 +9,8 @@ last_modified_at: 2026-06-03
 
 🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/purevpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/purevpn-coupon-code-ko/)
 
+🏠 [Best Coupon Codes Home]({{ site.baseurl }}/)
+
 Looking for the latest **PureVPN coupon code in 2026**?
 
 Here are the **best PureVPN deals available right now** — save up to **89% OFF** with verified promo codes and exclusive discounts.
