@@ -119,12 +119,17 @@ Surfshark는 2026년 기준 최고의 가성비 VPN 중 하나입니다.
 
 ---
 
-🔥 더 많은 VPN 할인 혜택
+
+## 🔥 더 많은 VPN 할인 혜택
+
+
 
 다른 VPN 할인도 찾고 계신가요? 아래에서 최신 VPN 쿠폰 코드를 확인해 보세요.
 
-[NordVPN 쿠폰 코드]({{ site.baseurl }}/nordvpn-coupon-code/) – 최대 80% 할인 + 추가 무료 개월 제공
-[ExpressVPN 쿠폰 코드]({{ site.baseurl }}/expressvpn-coupon-code/) – 최대 78% 할인 + 추가 4개월 무료
-[PureVPN 쿠폰 코드]({{ site.baseurl }}/purevpn-coupon-code/) – 최대 89% 할인 + 추가 3개월 무료
+* [NordVPN 쿠폰 코드]({{ site.baseurl }}/nordvpn-coupon-code/) – 최대 80% 할인 + 추가 무료 개월 제공
+
+* [ExpressVPN 쿠폰 코드]({{ site.baseurl }}/expressvpn-coupon-code/) – 최대 78% 할인 + 추가 4개월 무료
+
+* [PureVPN 쿠폰 코드]({{ site.baseurl }}/purevpn-coupon-code/) – 최대 89% 할인 + 추가 3개월 무료
 
 ---
