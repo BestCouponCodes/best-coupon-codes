@@ -35,7 +35,9 @@ Looking for the best VPN discounts? Explore the latest deals below:
 
 * [Surfshark Coupon Code – Get 89% OFF](/best-coupon-codes/surfshark-coupon-code/)
 * [NordVPN Promo Code – Get 80% OFF](/best-coupon-codes/nordvpn-coupon-code/)
-* [ExpressVPN Coupon Code – Get 78% OFF + 4 Extra Months](/best-coupon-codes/expressvpn-coupon-code/)
+* [ExpressVPN Coupon Code – Get 78% OFF](/best-coupon-codes/expressvpn-coupon-code/)
+* [PureVPN Coupon Code – Get 89% OFF](/best-coupon-codes/purevpn-coupon-code/)
+
 
 ✔ Secure your internet connection
 ✔ Protect your online privacy
