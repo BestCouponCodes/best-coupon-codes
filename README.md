@@ -64,7 +64,7 @@ Save on trending AI tools and software:
 Find the best discounts on popular software:
 
 * Tenorshare Coupon Code
-* [iMyFone Coupon Code – Up to 30% OFF](./imyfone-coupon-code.md)
+* [iMyFone Coupon Code](./imyfone-coupon-code.md)
 * Data Recovery Software Deals
 
 ✔ Unlock full features
