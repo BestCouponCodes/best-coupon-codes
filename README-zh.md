@@ -1,6 +1,6 @@
 # 2026 最新優惠碼整理 🔥
 
-🌐 語言：🇺🇸 [English](./README.md) | 🇹🇼 繁體中文 | 🇯🇵 [日本語](./README-ja.md) | 🇰🇷 [한국어](./README-ko.md)
+🌐 語言：🇹🇼 繁體中文 | 🇺🇸 [English](./README.md) | 🇯🇵 [日本語](./README-ja.md) | 🇰🇷 [한국어](./README-ko.md) | 🇨🇳 [简体中文](./README-cn.md)
 
 歡迎來到 **2026 最新優惠碼整理**，這裡提供最新的 **優惠碼、折扣碼與限時優惠資訊**。
 
@@ -12,7 +12,9 @@
 
 * [Surfshark 優惠碼｜最高省 89% + 加送額外月份](./surfshark-coupon-code-zh.md)
 * [NordVPN 優惠碼｜最高省 80% + 加送額外月份](./nordvpn-coupon-code-zh.md)
-* [ExpressVPN 優惠碼｜最高省 78% + 加送 4 個月](./expressvpn-coupon-code-zh.md)
+* [ExpressVPN 優惠碼｜最高省 84% + 加送 4 個月](./expressvpn-coupon-code-zh.md)
+* [PureVPN 優惠碼｜最高省 89% + 加送 3 個月](./purevpn-coupon-code-zh.md)
+* [ProtonVPN 優惠碼｜最高省 70%](./protonvpn-coupon-code-zh.md)
 * CapCut Pro 優惠碼｜最新折扣整理
 * Tenorshare 優惠碼｜全系列工具優惠
 * iMyFone 優惠碼｜軟體專屬折扣
@@ -27,12 +29,17 @@
 
 * [Surfshark 優惠碼｜立即取得 89% OFF](./surfshark-coupon-code-zh.md)
 * [NordVPN 優惠碼｜立即取得 80% OFF](./nordvpn-coupon-code-zh.md)
-* [ExpressVPN 優惠碼｜最高省 78% + 加送 4 個月](./expressvpn-coupon-code-zh.md)
+* [ExpressVPN 優惠碼｜最高省 84% + 加送 4 個月](./expressvpn-coupon-code-zh.md)
+* [PureVPN 優惠碼｜最高省 89% + 加送 3 個月](./purevpn-coupon-code-zh.md)
+* [ProtonVPN 優惠碼｜最高省 70%](./protonvpn-coupon-code-zh.md)
 
 ✔ 保護上網隱私
+
 ✔ 安全使用公共 Wi-Fi
+
 ✔ 解鎖全球網站與影音內容
-✔ VPN 訂閱最高可省 90%
+
+✔ VPN 訂閱最高可省 89%
 
 ---
 
@@ -45,7 +52,9 @@
 * AI 寫作工具折扣
 
 ✔ 提升工作效率
+
 ✔ 加速內容創作
+
 ✔ 以更低價格取得進階功能
 
 ---
@@ -59,7 +68,9 @@
 * 資料救援軟體優惠
 
 ✔ 解鎖完整功能
+
 ✔ 一次性買斷優惠
+
 ✔ 專業工具更划算
 
 ---
@@ -70,6 +81,7 @@
 * 持續更新最新折扣資訊
 * 涵蓋 VPN、AI 工具與軟體優惠
 * 內容整理清楚、方便查找
+* 支援多國語言（English／繁體中文／简体中文／日本語／한국어）
 
 ---
 
@@ -78,20 +90,23 @@
 如果你覺得這些資訊有幫助：
 
 👉 幫這個 Repository 點個 Star ⭐
+
 👉 收藏本頁面，隨時查看最新優惠
+
+👉 分享給有需要的朋友
 
 ---
 
 ## ⚠️ 聲明
 
-部分連結可能為聯盟連結，這能協助網站持續提供免費內容與更新，且不會增加您的額外費用。
+部分連結可能為聯盟連結，若您透過這些連結完成購買，我們可能會獲得少量佣金，但不會增加您的任何額外費用。這能協助網站持續提供免費內容與最新優惠資訊。
 
 ---
 
 ## 📬 聯絡與合作
 
-若有合作、推廣或商業合作需求，歡迎聯繫我們。
+若有合作、推廣、品牌合作或商業合作需求，歡迎與我們聯繫。
 
 ---
 
-**BestCouponCodes © 2026 – All Rights Reserved**
+**Best Coupon Codes © 2026 – All Rights Reserved**
