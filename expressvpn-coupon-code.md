@@ -71,7 +71,7 @@ ExpressVPN offers the biggest savings on long-term plans:
 
 * Monthly Plan – highest cost
 * 12-Month Plan – better value
-* 24-Month Plan – **best deal (up to 78% OFF + 4 extra months)**
+* 24-Month Plan – **best deal (up to 84% OFF + 4 extra months)**
 
 👉 Longer subscriptions help maximize savings.
 
