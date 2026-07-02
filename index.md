@@ -26,7 +26,7 @@ We continuously update the best discounts for VPN services, AI tools, software, 
 * [ProtonVPN Coupon Code – Up to 70% OFF](/best-coupon-codes/protonvpn-coupon-code/)
 * CapCut Pro Discount Code – Latest Deals Available
 * Tenorshare Coupon Code – Save on All Tools
-* iMyFone Coupon Code – Exclusive Software Discounts
+* [iMyFone Coupon Code – Up to 30% OFF](./imyfone-coupon-code.md)
 
 👉 We regularly update this list to ensure all coupon codes and promotions remain valid.
 
@@ -73,7 +73,7 @@ Save on trending AI tools and creative software:
 Discover the latest software discounts and promo deals:
 
 * Tenorshare Coupon Code
-* iMyFone Promo Code
+* [iMyFone Coupon Code](./imyfone-coupon-code.md)
 * Data Recovery Software Deals
 
 ✔ Unlock premium features
