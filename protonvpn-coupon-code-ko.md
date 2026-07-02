@@ -9,7 +9,7 @@ last_modified_at: 2026-07-02
 
 🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/protonvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/protonvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/protonvpn-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/protonvpn-coupon-code-cn/)
 
-🏠 [쿠폰 코드 홈]({{ site.baseurl }}/)
+🏠 [쿠폰 코드 홈]({{ site.baseurl }}/index-ko)
 
 **2026년 최신 Proton VPN 쿠폰 코드**를 찾고 계신가요?
 
