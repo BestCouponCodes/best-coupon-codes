@@ -7,7 +7,7 @@ lang: en
 last_modified_at: 2026-07-02
 ---
 
-🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/purevpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/purevpn-coupon-code-ko/)
+🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/purevpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/purevpn-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/purevpn-coupon-code-cn/)
 
 🏠 [Best Coupon Codes Home]({{ site.baseurl }}/)
 
@@ -133,5 +133,7 @@ Looking for other VPN discounts? Check out these verified VPN coupon codes:
 - [NordVPN Coupon Code]({{ site.baseurl }}/nordvpn-coupon-code/) – Up to 80% OFF
 - [Surfshark Coupon Code]({{ site.baseurl }}/surfshark-coupon-code/) – Up to 87% OFF
 - [ExpressVPN Coupon Code]({{ site.baseurl }}/expressvpn-coupon-code/) – Exclusive Deal Available
+- [ProtonVPN Coupon Code]({{ site.baseurl }}/protonvpn-coupon-code/) – Up to 70% OFF
 
+  
 ---
