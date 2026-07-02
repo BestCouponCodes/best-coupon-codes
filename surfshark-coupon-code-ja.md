@@ -6,9 +6,9 @@ lang: ja
 last_modified_at: 2026-06-03
 ---
 
-🌐 言語：🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 日本語 | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
+🌐 Languages: 🇯🇵 日本語 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/surfshark-coupon-code-cn/)
 
-🏠 [クーポンコード一覧トップへ戻る]({{ site.baseurl }}/)
+🏠 [クーポンコード一覧]({{ site.baseurl }}/ja/)
 
 最新の **Surfshark クーポンコード 2026** をお探しですか？
 ここでは現在利用可能な最安の割引情報とプロモコードをまとめています。
@@ -123,10 +123,13 @@ Surfsharkは2026年において、
 
 他のVPN割引もお探しですか？現在利用できる人気VPNのクーポンコードはこちらです。
 
-* [NordVPN クーポンコード]({{ site.baseurl }}/nordvpn-coupon-code/) – 最大80%OFF＋追加無料期間
+* [NordVPN クーポンコード]({{ site.baseurl }}/nordvpn-coupon-code-ja/) – 最大80%OFF＋追加無料期間
 
-* [ExpressVPN クーポンコード]({{ site.baseurl }}/expressvpn-coupon-code/) – 最大78%OFF＋4か月無料
+* [ExpressVPN クーポンコード]({{ site.baseurl }}/expressvpn-coupon-code-ja/) – 最大78%OFF＋4か月無料
 
-* [PureVPN クーポンコード]({{ site.baseurl }}/purevpn-coupon-code/) – 最大89%OFF＋3か月無料
+* [PureVPN クーポンコード]({{ site.baseurl }}/purevpn-coupon-code-ja/) – 最大89%OFF＋3か月無料
+
+* [ProtonVPN クーポンコード]({{ site.baseurl }}/protonvpn-coupon-code-ja/) – 最大70%OFF
+
 
 ---
