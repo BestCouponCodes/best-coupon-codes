@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ExpressVPN Coupon Code 2026 – Up to 78% OFF + 4 Extra Months🔥
-description: "Get the latest ExpressVPN coupon code for 2026. Save up to 78% with 4 extra months included. Verified and updated deals."
+title: ExpressVPN Coupon Code 2026 – Up to 84% OFF + 4 Extra Months🔥
+description: "Get the latest ExpressVPN coupon code for 2026. Save up to 84% with 4 extra months included. Verified and updated deals."
 lang: en
 last_modified_at: "2026-07-02"
 ---
