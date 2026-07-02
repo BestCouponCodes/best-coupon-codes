@@ -13,11 +13,9 @@
 * [Surfshark 优惠码 – 最高 89% 折扣 + 免费赠送额外月份](./surfshark-coupon-code-cn.md)
 * [NordVPN 优惠码 – 最高 80% 折扣 + 免费赠送额外月份](./nordvpn-coupon-code-cn.md)
 * [ExpressVPN 优惠码 – 最高 84% 折扣 + 免费赠送 4 个月](./expressvpn-coupon-code-cn.md)
-* [PureVPN 优惠码 – 最高 89% 折扣 + 免费赠送 3 个月](./purevpn-coupon-code-cn.md)
-* [ProtonVPN 优惠码 – 最高 70% 折扣](./protonvpn-coupon-code-cn.md)
 * CapCut Pro 优惠码 – 最新优惠
 * Tenorshare 优惠码 – 全系列工具折扣
-* iMyFone 优惠码 – 软件专属优惠
+* [iMyFone 优惠码｜最高 30% 折扣](./imyfone-coupon-code-cn.md)
 
 👉 我们会持续更新，确保所有优惠码和折扣信息保持最新且有效。
 
@@ -64,7 +62,7 @@
 查找热门软件的最新折扣：
 
 * Tenorshare 优惠码
-* iMyFone 优惠码
+* [iMyFone 优惠码](./imyfone-coupon-code-cn.md)
 * 数据恢复软件优惠
 
 ✔ 解锁完整功能
