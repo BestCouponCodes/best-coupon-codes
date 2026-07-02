@@ -8,7 +8,7 @@ last_modified_at: 2026-07-02
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
 
-🏠 [返回优惠码首页]({{ site.baseurl }}/)
+🏠 [返回优惠码首页]({{ site.baseurl }}/cn/)
 
 正在寻找 **2026 最新 Surfshark 优惠码（Coupon Code）**？
 
