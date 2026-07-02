@@ -10,7 +10,7 @@ last_modified_at: 2026-07-02
 🌐 Languages: 🇹🇼 繁體中文 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/surfshark-coupon-code-cn/)
 
 
-🏠 [優惠碼首頁]({{ site.baseurl }}/zh/)
+🏠 [優惠碼首頁]({{ site.baseurl }}/index-zh)
 
 正在找最新的 **Surfshark 優惠碼 2026** 嗎？
 這裡整理目前最優惠的 Surfshark 折扣方案，讓你用最低價格入手高品質 VPN。
