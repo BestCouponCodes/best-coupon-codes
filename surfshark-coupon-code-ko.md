@@ -8,7 +8,7 @@ last_modified_at: 2026-07-02
 
 🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/surfshark-coupon-code-cn/)
 
-🏠 [쿠폰 코드 홈]({{ site.baseurl }}/ko/)
+🏠 [쿠폰 코드 홈]({{ site.baseurl }}/index-ko)
 
 최신 **Surfshark 쿠폰 코드 2026**를 찾고 계신가요?
 현재 가장 큰 할인 혜택과 최신 프로모션 코드를 한눈에 확인하세요.
