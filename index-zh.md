@@ -26,7 +26,7 @@ last_modified_at: "2026-07-02"
 * [ProtonVPN 優惠碼｜最高享 70% OFF](/best-coupon-codes/protonvpn-coupon-code-zh/)
 * CapCut Pro 優惠碼｜最新折扣整理
 * Tenorshare 優惠碼｜全系列工具優惠
-* iMyFone 優惠碼｜軟體專屬折扣
+* [iMyFone 優惠碼｜最高省 30% OFF](./imyfone-coupon-code-zh.md)
 
 👉 我們會定期更新本頁面，確保所有優惠碼與促銷活動皆為最新且有效的資訊。
 
@@ -73,7 +73,7 @@ last_modified_at: "2026-07-02"
 整理熱門軟體與工具優惠資訊：
 
 * Tenorshare 優惠碼
-* iMyFone 優惠碼
+* [iMyFone 優惠碼](./imyfone-coupon-code-zh.md)
 * 資料救援軟體優惠
 
 ✔ 解鎖完整功能
