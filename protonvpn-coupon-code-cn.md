@@ -9,7 +9,8 @@ last_modified_at: 2026-07-02
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/protonvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/protonvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/protonvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/protonvpn-coupon-code-ko/)
 
-🏠 [优惠码首页]({{ site.baseurl }}/)
+🏠 [返回优惠码首页]({{ site.baseurl }}/index-cn)
+
 
 正在寻找 **2026 最新 Proton VPN 优惠码（Coupon Code）**？
 
