@@ -3,12 +3,12 @@ layout: default
 title: Surfshark 쿠폰 코드 2026｜최대 89% 할인 + 추가 무료 개월🔥
 description: "2026년 최신 Surfshark 쿠폰 코드와 할인 정보를 제공합니다. 사용 가능한 VPN 할인 코드와 프로모션을 확인하세요."
 lang: ko
-last_modified_at: 2026-06-03
+last_modified_at: 2026-07-02
 ---
 
-🌐 언어: 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 한국어
+🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/surfshark-coupon-code-cn/)
 
-🏠 [쿠폰 코드 홈으로 돌아가기]({{ site.baseurl }}/)
+🏠 [쿠폰 코드 홈]({{ site.baseurl }}/ko/)
 
 최신 **Surfshark 쿠폰 코드 2026**를 찾고 계신가요?
 현재 가장 큰 할인 혜택과 최신 프로모션 코드를 한눈에 확인하세요.
@@ -126,10 +126,13 @@ Surfshark는 2026년 기준 최고의 가성비 VPN 중 하나입니다.
 
 다른 VPN 할인도 찾고 계신가요? 아래에서 최신 VPN 쿠폰 코드를 확인해 보세요.
 
-* [NordVPN 쿠폰 코드]({{ site.baseurl }}/nordvpn-coupon-code/) – 최대 80% 할인 + 추가 무료 개월 제공
+* [NordVPN 쿠폰 코드]({{ site.baseurl }}/nordvpn-coupon-code-ko/) – 최대 80% 할인 + 추가 무료 개월 제공
 
-* [ExpressVPN 쿠폰 코드]({{ site.baseurl }}/expressvpn-coupon-code/) – 최대 78% 할인 + 추가 4개월 무료
+* [ExpressVPN 쿠폰 코드]({{ site.baseurl }}/expressvpn-coupon-code-ko/) – 최대 78% 할인 + 추가 4개월 무료
 
-* [PureVPN 쿠폰 코드]({{ site.baseurl }}/purevpn-coupon-code/) – 최대 89% 할인 + 추가 3개월 무료
+* [PureVPN 쿠폰 코드]({{ site.baseurl }}/purevpn-coupon-code-ko/) – 최대 89% 할인 + 추가 3개월 무료
+
+* [ProtonVPN 쿠폰 코드]({{ site.baseurl }}/protonvpn-coupon-code-ko/) – 최대 70% 할인
+
 
 ---
