@@ -3,7 +3,7 @@ layout: default
 title: NordVPN 쿠폰 코드 2026｜최대 80% 할인 + 추가 무료 개월🔥
 description: "2026년 최신 NordVPN 쿠폰 코드와 할인 정보를 제공합니다. 사용 가능한 VPN 할인 코드와 프로모션을 확인하세요."
 lang: ko
-last_modified_at: 2026-07-04
+last_modified_at: 2026-08-11
 ---
 
 
@@ -34,7 +34,7 @@ last_modified_at: 2026-07-04
 [NordVPN 최신 할인 페이지](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=62577&url_id=12)
 
 현재 사용 가능한 코드:
-
+- **PKSTEP** → 2년 플랜 + 추가 4개월 (최대 76% 할인)
 * **APPLE** → 2년 + 4개월 무료 (최대 80% 할인)
 * **BOSS** → 2년 + 4개월 무료 (최대 80% 할인)
 * **VFB** → 2년 플랜 (최대 80% 할인)
