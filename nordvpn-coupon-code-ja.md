@@ -3,7 +3,7 @@ layout: default
 title: NordVPN クーポンコード 2026｜最大80%OFF + 無料期間追加🔥
 description: "2026年の最新NordVPNクーポンコードと割引情報を紹介。使えるVPN割引コードとお得なプランをまとめています。"
 lang: ja
-last_modified_at: 2026-07-02
+last_modified_at: 2026-08-11
 ---
 
 
@@ -35,6 +35,7 @@ last_modified_at: 2026-07-02
 
 現在利用可能なコード：
 
+- **PKSTEP** → 2年間プラン + 4か月追加（最大76%OFF）
 * **APPLE** → 2年プラン + 4ヶ月無料（最大80%OFF）
 * **BOSS** → 2年プラン + 4ヶ月無料（最大80%OFF）
 * **VFB** → 2年プラン（最大80%OFF）
