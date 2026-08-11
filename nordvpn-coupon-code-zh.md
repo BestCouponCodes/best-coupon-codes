@@ -3,7 +3,7 @@ layout: default
 title: NordVPN 優惠碼 2026｜最高 80% 折扣 + 加送額外月份🔥
 description: "整理 2026 最新 NordVPN 優惠碼與折扣資訊，提供有效的 VPN 折扣碼與優惠方案。"
 lang: zh
-last_modified_at: 2026-07-02
+last_modified_at: 2026-08-11
 ---
 
 
@@ -37,6 +37,7 @@ last_modified_at: 2026-07-02
 
 以下為目前可用優惠碼：
 
+- **PKSTEP** → 2 年方案 + 額外 4 個月（最高省 76%）
 * **APPLE** → 2 年方案 + 加送 4 個月（最高 80% OFF）  
 * **BOSS** → 2 年方案 + 加送 4 個月（最高 80% OFF）  
 * **VFB** → 2 年方案（最高 80% OFF）  
