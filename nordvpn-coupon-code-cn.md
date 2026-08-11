@@ -3,7 +3,7 @@ layout: default
 title: "NordVPN 优惠码 2026｜最高 80% 折扣 + 免费赠送额外月份"
 description: "获取 2026 最新 NordVPN 优惠码。最高可享 80% 折扣，并免费赠送额外订阅月份，所有优惠均经过验证并持续更新。"
 lang: cn
-last_modified_at: 2026-07-02
+last_modified_at: 2026-08-11
 ---
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/nordvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/nordvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/nordvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/nordvpn-coupon-code-ko/)
@@ -38,9 +38,10 @@ last_modified_at: 2026-07-02
 
 目前可用优惠码：
 
-- **APPLE** → 2 年套餐 + 免费赠送 4 个月（最高可省 80%）
-- **BOSS** → 2 年套餐 + 免费赠送 4 个月（最高可省 80%）
-- **VFB** → 2 年套餐（最高可省 80%）
+- **PKSTEP** → 2 年方案 + 额外 4 个月（最高省 76%） 
+- **APPLE** → 2 年套餐 + 免费赠送 4 个月（最高可省 76%）
+- **BOSS** → 2 年套餐 + 免费赠送 4 个月（最高可省 76%）
+- **VFB** → 2 年套餐（最高可省 78%）
 - **PKSTEP** → 1 年套餐 + 免费赠送 1 个月（最高可省 70%）
 
 👉 优惠码可能会自动生效，也可以在结账时手动输入。
