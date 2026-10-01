@@ -4,7 +4,7 @@ layout: default
 title: "Proton VPN 쿠폰 코드 2026 | 최대 70% 할인 + 무료 버전 다운로드"
 description: "2026년 최신 Proton VPN 특별 할인. 프리미엄 플랜을 최대 70% 할인된 가격으로 이용하고, Proton VPN Free도 무료로 다운로드할 수 있습니다."
 lang: ko
-last_modified_at: 2026-07-02
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/protonvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/protonvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/protonvpn-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/protonvpn-coupon-code-cn/)
