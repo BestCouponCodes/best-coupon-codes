@@ -3,7 +3,7 @@ layout: default
 title: "ExpressVPN 優惠碼 2026｜最高省 84% + 加送 4 個月🔥"
 description: "取得最新 ExpressVPN 優惠碼與折扣方案，最高可省 84%，加送 4 個月，限時優惠持續更新中。"
 lang: zh
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-10-01"
 ---
 
 🌐 Languages: 🇹🇼 繁體中文 | 🇺🇸 [English]({{ site.baseurl }}/expressvpn-coupon-code/) | 🇯🇵 [日本語]({{ site.baseurl }}/expressvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/expressvpn-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/expressvpn-coupon-code-cn/)
