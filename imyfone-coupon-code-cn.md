@@ -3,7 +3,7 @@ layout: default
 title: "iMyFone 优惠码 2026｜最高 30% 折扣 + 最新折扣码整理"
 description: "整理 2026 最新 iMyFone 优惠码、折扣码（Coupon Code）、邀请码与官方优惠活动，最高可享 30% 折扣，持续更新可用优惠。"
 lang: cn
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-10-01"
 ---
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/imyfone-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/imyfone-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/imyfone-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/imyfone-coupon-code-ko/)
