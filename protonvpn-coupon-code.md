@@ -5,7 +5,7 @@ layout: default
 title: "Proton VPN Coupon Code 2026 – Special Offer: Up to 70% OFF + Free Version"
 description: "Get the latest Proton VPN special offer for 2026. Save up to 70% on premium plans or download Proton VPN Free with no cost."
 lang: en
-last_modified_at: 2026-07-02
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇺🇸 English | 🇹🇼 [繁體中文]({{ site.baseurl }}/protonvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/protonvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/protonvpn-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/protonvpn-coupon-code-cn/)
