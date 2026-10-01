@@ -36,7 +36,6 @@ Here’s the **best NordVPN deal available right now** — save big with verifie
 
 
 Use these working promo codes:
--  **PKSTEP** → 2-year plan + 4 extra months (Save up to 78%)
 -  **APPLE** → 2-year plan + 4 extra months (Save up to 78%)
 -  **BOSS** → 2-year plan + 4 extra months (Save up to 78%)
 -  **INCENTDE** → 2-year plan (Save up to 77%)
