@@ -4,7 +4,7 @@ layout: default
 title: PureVPN 優惠碼 2026｜最高享 89% 折扣 + 額外 3 個月🔥
 description: "最新 PureVPN 優惠碼整理！使用 PureVPN Promo Code 最高享 89% OFF，額外再送 3 個月，限時優惠持續更新中。"
 lang: zh
-last_modified_at: 2026-07-02
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇹🇼 繁體中文 | 🇺🇸 [English]({{ site.baseurl }}/purevpn-coupon-code/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/purevpn-coupon-code-ko/) | 🇨🇳 [简体中文]({{ site.baseurl }}/purevpn-coupon-code-cn/)
