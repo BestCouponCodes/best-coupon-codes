@@ -3,7 +3,7 @@ layout: default
 title: "ExpressVPN 할인코드 2026｜최대 84% 할인 + 4개월 추가 무료🔥"
 description: "최신 ExpressVPN 할인코드 및 프로모션 정보를 확인하세요. 최대 84% 할인과 4개월 추가 혜택을 제공합니다."
 lang: ko
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-10-01"
 ---
 
 🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/expressvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/expressvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/expressvpn-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/expressvpn-coupon-code-cn/)
