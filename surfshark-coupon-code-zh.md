@@ -3,7 +3,7 @@ layout: default
 title: Surfshark 優惠碼 2026｜最高 89% 折扣 + 加送額外月份🔥
 description: "整理 2026 最新 Surfshark 優惠碼與折扣資訊，提供有效的 VPN 折扣碼與優惠方案。"
 lang: zh
-last_modified_at: 2026-08-11
+last_modified_at: 2026-10-01
 ---
 
 
@@ -40,6 +40,7 @@ last_modified_at: 2026-08-11
 - **LONGSAVECN** → 24 個月 + 加送 4 個月（最高 86% OFF）
 - **ALENKA** → 24 個月 + 加送 4 個月（最高 86% OFF）
 - **BEANSANTIVIRUS** → 24 個月 + 加送 3 個月（最高 87% OFF）
+- **freetrial_7d** → 免費試用 7 天（無須先扣款）
 
 👉 多數情況下優惠會自動套用，也可手動輸入。
 
