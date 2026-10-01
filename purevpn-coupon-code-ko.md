@@ -4,7 +4,7 @@ layout: default
 title: PureVPN 쿠폰 코드 2026 | 최대 89% 할인 + 추가 3개월 무료🔥
 description: "최신 PureVPN 쿠폰 코드 모음! 최대 89% 할인과 추가 3개월 무료 혜택을 받을 수 있는 2026년 최신 프로모션 정보를 확인하세요."
 lang: ko
-last_modified_at: 2026-07-02
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇰🇷 한국어 | 🇺🇸 [English]({{ site.baseurl }}/purevpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/purevpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/purevpn-coupon-code-ja/) | 🇨🇳 [简体中文]({{ site.baseurl }}/purevpn-coupon-code-cn/)
