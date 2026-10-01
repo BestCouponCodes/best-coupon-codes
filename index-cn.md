@@ -5,7 +5,7 @@ title: "2026 最新优惠码｜VPN、AI 工具与软件优惠"
 description: "汇总 2026 最新 VPN 优惠码、AI 工具折扣、Promo Code 与软件优惠，持续更新经过验证的最新优惠。"
 excerpt: ""
 lang: cn
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-10-01"
 ---
 
 # 2026 最新优惠码 🔥
