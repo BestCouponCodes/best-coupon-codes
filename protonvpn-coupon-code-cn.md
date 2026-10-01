@@ -4,7 +4,7 @@ layout: default
 title: "Proton VPN 优惠码 2026｜最高 70% 折扣 + 免费版下载"
 description: "获取 2026 最新 Proton VPN 官方特别优惠，最高可享 70% 折扣，还可免费下载 Proton VPN Free，无需优惠码。"
 lang: cn
-last_modified_at: 2026-07-02
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/protonvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/protonvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/protonvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/protonvpn-coupon-code-ko/)
