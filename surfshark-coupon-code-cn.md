@@ -3,7 +3,7 @@ layout: default
 title: "Surfshark 优惠码 2026｜最高 89% 折扣 + 免费赠送额外月份"
 description: "获取 2026 最新 Surfshark 优惠码。查看最新可用 Promo Code、折扣和官方优惠，最高可享 89% 折扣。"
 lang: cn
-last_modified_at: 2026-08-11
+last_modified_at: 2026-10-01
 ---
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/surfshark-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/surfshark-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/surfshark-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/surfshark-coupon-code-ko/)
@@ -42,6 +42,7 @@ last_modified_at: 2026-08-11
 - **LONGSAVECN** → 24 个月 + 免费赠送 4 个月（最高可省 86%）
 - **ALENKA** → 24 个月 + 免费赠送 4 个月（最高可省 86%）
 - **BEANSANTIVIRUS** → 24 个月 + 免费赠送 3 个月（最高可省 87%）
+- **freetrial_7d** → 免费试用 7 天（无需预先付款）
 
 👉 优惠码可能会自动生效，也可以在结账时手动输入。
 
