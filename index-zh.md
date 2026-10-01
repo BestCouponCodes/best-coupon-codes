@@ -4,7 +4,7 @@ title: "2026 最新優惠碼整理｜VPN、AI 工具與軟體折扣"
 description: "整理最新 VPN 優惠碼、AI 工具折扣、軟體優惠與限時折扣資訊，持續更新並驗證可用優惠。"
 excerpt: ""
 lang: zh
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-10-01"
 ---
 
 # 2026 最新優惠碼整理 🔥
