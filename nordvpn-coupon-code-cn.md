@@ -3,7 +3,7 @@ layout: default
 title: "NordVPN 优惠码 2026｜最高 80% 折扣 + 免费赠送额外月份"
 description: "获取 2026 最新 NordVPN 优惠码。最高可享 80% 折扣，并免费赠送额外订阅月份，所有优惠均经过验证并持续更新。"
 lang: cn
-last_modified_at: 2026-10-01
+last_modified_at: "2026-11-09"
 ---
 
 🌐 Languages: 🇨🇳 简体中文 | 🇺🇸 [English]({{ site.baseurl }}/nordvpn-coupon-code/) | 🇹🇼 [繁體中文]({{ site.baseurl }}/nordvpn-coupon-code-zh/) | 🇯🇵 [日本語]({{ site.baseurl }}/nordvpn-coupon-code-ja/) | 🇰🇷 [한국어]({{ site.baseurl }}/nordvpn-coupon-code-ko/)
